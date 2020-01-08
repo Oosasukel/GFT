@@ -39,6 +39,9 @@ public class Main {
 			case "desligar":
 				carro.desligar();
 				break;
+			case "status":
+				carro.status();
+				break;
 			default:
 				System.out.println("Opcao inválida");
 				break;

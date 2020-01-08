@@ -91,6 +91,13 @@ public class Veiculo {
 	public void setPreco(double preco) {
 		this.preco = preco;
 	}
+	
+	public void status() {
+		System.out.println("Combustível: " + litrosCombustivel);
+		System.out.println("Velocidade: " + velocidade);
+		System.out.println("Cor: " + cor);
+		System.out.println(isLigado? "Veiculo Ligado." : "Veiculo Desligado.");
+	}
 
 	public void acelerar() {
 		if (isLigado) {
