@@ -14,7 +14,6 @@ public class Main {
 
 		Scanner sc = new Scanner(System.in);
 
-
 		while(true) {
 			opcao = sc.next();
 			
@@ -30,7 +29,7 @@ public class Main {
 				carro.frear();
 				break;
 			case "pintar":
-				cor = sc.next();
+				cor = sc.nextLine();
 				carro.pintar(cor);
 				break;
 			case "ligar":
