@@ -7,10 +7,6 @@ public class Veiculo {
 		this.modelo = modelo;
 		this.placa = placa;
 		this.cor = cor;
-		km = 0;
-		isLigado = false;
-		litrosCombustivel = 0;
-		velocidade = 0;
 		this.preco = preco;
 	}
 
@@ -112,7 +108,7 @@ public class Veiculo {
 
 	public void abastecer(int qtdLitros) {
 
-		if (litrosCombustivel + qtdLitros < 100) {
+		if (litrosCombustivel + qtdLitros <= 100) {
 			litrosCombustivel += qtdLitros;
 			System.out.println("Veículo abastecido com " + qtdLitros + " litros.");
 		} else {

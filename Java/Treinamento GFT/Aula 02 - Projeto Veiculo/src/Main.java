@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
+import Model.Carro;
 import Model.Veiculo;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Veiculo carro = new Veiculo("CHANGAN", "MINI STAR Family 1.0 8V 53cv (MiniVan)", "JZH7485", "Cinza", 20000);
+		Carro carro = new Carro("CHANGAN", "MINI STAR Family 1.0 8V 53cv (MiniVan)", "JZH7485", "Cinza", 20000, 4, 1999);
 
 		String opcao;
 		int qtdLitros;
