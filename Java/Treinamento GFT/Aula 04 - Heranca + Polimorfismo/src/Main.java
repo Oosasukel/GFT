@@ -8,6 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		Aviao veiculo = new Aviao("CHANGAN", "MINI STAR Family 1.0 8V 53cv (MiniVan)", "JZH7485", "Cinza", 20000);
 		
+		
+		
 		String opcao;
 		String qtdLitros;
 		String cor;
