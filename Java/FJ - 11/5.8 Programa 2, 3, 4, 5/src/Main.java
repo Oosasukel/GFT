@@ -1,7 +1,11 @@
 
 public class Main {
+	
+	int x = 37;
 
 	public static void main(String[] args) {
+		
+		System.out.println(x);
 		
 		Conta c = new Conta("Rodrigo");
 		Conta c2 = new Conta();
