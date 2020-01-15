@@ -1,0 +1,11 @@
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.exe
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.deps.json
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.runtimeconfig.json
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.runtimeconfig.dev.json
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.dll
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\bin\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.pdb
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\obj\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.csprojAssemblyReference.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\obj\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.AssemblyInfoInputs.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\obj\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.AssemblyInfo.cs
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\obj\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.dll
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Pessoas\Aula 08 - Prova Pessoas\obj\Debug\netcoreapp3.1\Aula 08 - Prova Pessoas.pdb
