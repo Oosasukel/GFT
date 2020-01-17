@@ -12,9 +12,7 @@ namespace Aula_08___Prova_Funcionarios
 
             Console.WriteLine(gerente);
             Console.WriteLine(supervisor);
-            Console.WriteLine(vendedor);
-
-            
+            Console.WriteLine(vendedor);            
         }
     }
 }

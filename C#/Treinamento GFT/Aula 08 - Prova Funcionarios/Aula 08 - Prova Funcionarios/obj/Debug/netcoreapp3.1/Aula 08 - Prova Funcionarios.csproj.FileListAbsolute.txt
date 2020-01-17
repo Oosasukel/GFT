@@ -8,3 +8,4 @@ C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Funcionari
 C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Funcionarios\Aula 08 - Prova Funcionarios\obj\Debug\netcoreapp3.1\Aula 08 - Prova Funcionarios.AssemblyInfo.cs
 C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Funcionarios\Aula 08 - Prova Funcionarios\obj\Debug\netcoreapp3.1\Aula 08 - Prova Funcionarios.dll
 C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Funcionarios\Aula 08 - Prova Funcionarios\obj\Debug\netcoreapp3.1\Aula 08 - Prova Funcionarios.pdb
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\Treinamento GFT\Aula 08 - Prova Funcionarios\Aula 08 - Prova Funcionarios\obj\Debug\netcoreapp3.1\Aula 08 - Prova Funcionarios.csprojAssemblyReference.cache

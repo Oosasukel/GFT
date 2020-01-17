@@ -1,0 +1,9 @@
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\bin\Debug\22.4 System.IO.exe.config
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\bin\Debug\22.4 System.IO.exe
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\bin\Debug\22.4 System.IO.pdb
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\22.4 System.IO.csprojAssemblyReference.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\_22._4_System.IO.Form1.resources
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\_22._4_System.IO.Properties.Resources.resources
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\22.4 System.IO.csproj.GenerateResource.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\22.4 System.IO.exe
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\22.4 System.IO\22.4 System.IO\obj\Debug\22.4 System.IO.pdb

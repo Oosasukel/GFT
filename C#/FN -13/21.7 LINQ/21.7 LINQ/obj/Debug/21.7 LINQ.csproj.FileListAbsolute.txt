@@ -1,0 +1,9 @@
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\21.7 LINQ.csprojAssemblyReference.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\_21._7_LINQ.FormRelatorios.resources
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\_21._7_LINQ.Properties.Resources.resources
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\21.7 LINQ.csproj.GenerateResource.cache
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\bin\Debug\21.7 LINQ.exe.config
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\bin\Debug\21.7 LINQ.exe
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\bin\Debug\21.7 LINQ.pdb
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\21.7 LINQ.exe
+C:\Users\ROGN\Downloads\GitHub\GFT\C#\FN -13\21.7 LINQ\21.7 LINQ\obj\Debug\21.7 LINQ.pdb
